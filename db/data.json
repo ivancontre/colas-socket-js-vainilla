@@ -1,0 +1,28 @@
+{
+   "last": 158,
+   "today": 22,
+   "pendingTickets": [
+      {
+         "number": 158,
+         "desk": null
+      }
+   ],
+   "last4Tickets": [
+      {
+         "number": 157,
+         "desk": "Escritorio 1"
+      },
+      {
+         "number": 156,
+         "desk": "Escritorio 1"
+      },
+      {
+         "number": 155,
+         "desk": "Escritorio 1"
+      },
+      {
+         "number": 154,
+         "desk": "Escritorio 1"
+      }
+   ]
+}
